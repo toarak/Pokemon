@@ -14,11 +14,15 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 This is a short Pokemon storage programm. Just Login with your name, then see which Pokemon you've already catched. If you want to catch more just go to the Pokedex and start catching them all.
 
 ## How to use
-Either just run ng serve or go to:
+Either just run ng serve or go to: https://frozen-eyrie-70946.herokuapp.com/
 
 ## Components
 We have some here.
 First is a login component which is there to store data for users. If none user is find, the app will auto create a new user.
 Second we come to the pokestore, where all Pokemon are stored and you can see which one you have already catched.
 And last we can switch to the pokedex, a handy page where you can catch pokemon or just look which one exists.
+
+## History
+Started earlier this week, got lost during friday, was on a totally wrong path for most of the weekend and got back on track on monday.
+Hence... if you find some very curious coding and some unecessary things... yeah... i was lost.
 
